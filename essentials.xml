@@ -5,7 +5,7 @@ Intro Text
 -->
 <instructions>
 <title>BIENVENIDO CURSO DE ENSAMBLAJE VIRTUAL</title>
-<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a travÈs de las caracterÌsticas principales del escritorio virtual. Este tutorial est· siempre disponible pulsando Ayuda en la esquina superior derecha.</text>
+<text><br>Nuestro Curso Virtual  le permite aprender los pasos esenciales para montar un ordenador de sobremesa, explorar sus componentes, y poner a prueba sus conocimientos. explorar sus componentes, y poner a prueba tu Si esta es tu primera vez, por favor tome un momento para caminar a trav√©s de las caracter√≠sticas principales del escritorio virtual. Este tutorial est√° siempre disponible pulsando Ayuda en la esquina superior derecha.</br></text>
 </instructions>
 
 
@@ -34,7 +34,7 @@ Instalar la placa base <ul><li>Mueva lentamente la placa en la caja,alinee los a
 </accordian>
 <accordian id="  unidades en compartimientos externos" file="mcEXTERNALDRIVES">
 	<text><br>La unidad CD-RW/DVD es un dispositivo de almacenamiento optico que lee y escribe informacion en CD y lee DVD.<BR><BR>una unidad de disquete (FDD) es un disco magnetico que lee y escribe informacion en disquetes.<BR><BR>Instale la unidad de discos opticos y las FDD.</text>
-	<text2><br>INSTALACION DE UNIDAD OPTICA<uL><LI>Mueva la unidad optica al modelo 3d</LI><LI>Coloque la unidad optica  alinear con el 5,25î la bahia de disco</LI><LI>Inserte la unidad optica en el compartimento de la unidad</LI><LI>Asegure la unidad optica al gabinete con los tornillos apropiados.</LI></uL><BR>INSTALAR UNIDAD DE DISCO<uL><LI>Mueva el FDD al modelo 3d</LI><LI> posicione el FDD para que se alinee con la 3,5 ì la bahia de disco</LI><LI>Inserte el FDD en el compartimento de la unidad</LI><LI>Asegure la FDD a la caja usando los tornillos apropiados.</LI><uL><BR><BR>
+	<text2><br>INSTALACION DE UNIDAD OPTICA<uL><LI>Mueva la unidad optica al modelo 3d</LI><LI>Coloque la unidad optica  alinear con el 5,25‚Äù la bahia de disco</LI><LI>Inserte la unidad optica en el compartimento de la unidad</LI><LI>Asegure la unidad optica al gabinete con los tornillos apropiados.</LI></uL><BR>INSTALAR UNIDAD DE DISCO<uL><LI>Mueva el FDD al modelo 3d</LI><LI> posicione el FDD para que se alinee con la 3,5 ‚Äú la bahia de disco</LI><LI>Inserte el FDD en el compartimento de la unidad</LI><LI>Asegure la FDD a la caja usando los tornillos apropiados.</LI><uL><BR><BR>
 </text2>
 </accordian>
 <!--===============================-->
